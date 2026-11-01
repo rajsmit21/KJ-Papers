@@ -8,7 +8,7 @@
  *    you are permitted to share. Do not put private student data in this folder.
  */
 
-const ROOT_FOLDER_ID = "PASTE_YOUR_GOOGLE_DRIVE_ROOT_FOLDER_ID_HERE";
+const ROOT_FOLDER_ID = "https://drive.google.com/drive/folders/1o9e7I4TVV-ujPMwZtwNosOfP8Oma2LS6";
 const CACHE_SECONDS = 120;
 const MAX_PAPERS = 1500;
 
